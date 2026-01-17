@@ -1,0 +1,8 @@
+{
+  "name": "EduMind AI - The All-in-One Learning Platform",
+  "description": "A comprehensive AI-powered learning application designed for students. Generate quizzes, full exams, personalized study plans, and interactive learning guides across multiple languages and educational levels.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
